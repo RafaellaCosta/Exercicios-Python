@@ -1,4 +1,4 @@
-polegadas = float(input())
+polegadas = float(input("Quantas polegadas você quer calcular? "))
 
 mm = polegadas * 25.4
 

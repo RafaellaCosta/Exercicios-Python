@@ -1,6 +1,6 @@
 
-v1 = input()
-v2 = input()
+v1 = input("Digite o primeiro número:")
+v2 = input("Digite o segundo número:")
 
 a = v1
 v1 = v2
